@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/ibnzUK/React_Expenses/blob/master/screenshot.png)
+![Screenshot](https://github.com/ibnzUK/React_Expenses/screenshot.png)
 
 This is react form and list conditional rendering example
 
