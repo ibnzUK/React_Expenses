@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![Screenshot](public/screenshot.png)
+=======
+![Screenshot](https://github.com/ibnzUK/React_Expenses/screenshot.png)
+>>>>>>> 1a45f460e37c8ca7f42b303e615b9e866f229c4c
 
 This is react form and list conditional rendering example
 
