@@ -1,6 +1,8 @@
 ![Preview of light theme](public/screenshot.png)
 
-This is a React experimental application to conditionally render and add items to list
+This is a React experimental application to conditionally render and add items to list 
+
+(following UDEMY React - The Complete Guide (incl Hooks, React Router, Redux))
 
 ## Community codders, please commit
 
