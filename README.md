@@ -2,7 +2,7 @@
 
 This is react form and list conditional rendering example
 
-## Community codders, please commit
+## Community codders, please commit 
 
 Feel free to add extra functions or improvements, This helps me to more familiarise with source control and open source project managing
 
