@@ -4,7 +4,7 @@ This is a React experimental application to conditionally render and add items t
 
 (following UDEMY React - The Complete Guide (incl Hooks, React Router, Redux))
 
-## Community codders, please commit
+## Community coders, please commit
 
 Feel free to add extra functions or improvements, This helps me to more familiarise with source control and open source project managing
 
